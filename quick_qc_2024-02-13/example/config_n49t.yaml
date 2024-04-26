@@ -1,0 +1,7 @@
+fig_dir: /ags/projects/hiaper/2023.304_ar2024/aro/6_nret/quick_qc/fig/
+start_dir: /ags/projects/hiaper/2023.304_ar2024/aro/6_nret
+campaign: AR24
+receiver: n49t # wildcard matching, such as 'n49t', 'a0', 'a02t'
+aircraft: G-IV
+r2_threshold: 0.5
+gif: False

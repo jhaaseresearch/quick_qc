@@ -1,0 +1,11 @@
+results_dir: /ags/projects/hiaper/code_noah/python/quick_qc/quick_qc_2024-03-14/example/
+start_dir: /ags/projects/hiaper/2023.304_ar2024/aro/6_nret
+campaign: AR24 #must be of form ARXX or TCXX
+receiver: a0
+aircraft: C-130
+show_bad: True
+flight_ids:
+  - 2*iop17_a04t
+  - 2*iop17_n49t
+  #wildcard matching, must put * for any trailing
+  #to do all leave empty or write flight_ids: all

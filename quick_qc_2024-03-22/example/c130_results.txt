@@ -1,0 +1,16 @@
+2024.015_iop17_a04t
+e11s_08-2_bad: Gradient is too large (mean gradient > -5 N/km)
+r02s_04-1_bad: multiple
+r22s_03-2_bad: multiple
+-------------------------------------------------------------------------------
+
+2024.015_iop17_n49t
+c13s_08-1_bad: multiple
+e10s_31-1_bad: multiple
+e11s_31-1_bad: multiple
+e19s_31-1_bad: multiple
+-------------------------------------------------------------------------------
+
+                flight  n_occs  n_ncs  n_good     p_good
+0  2024.015_iop17_a04t      57     24      24  42.105263
+1  2024.015_iop17_n49t      57     51      51  89.473684
